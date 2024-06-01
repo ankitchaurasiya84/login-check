@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+.card {
+  border: 1px solid #adf0b5;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px; /* Adjust width as needed */
+  margin: 0 auto; /* Center the card */
+  box-shadow: 0 4px 8px rgba(90, 231, 77, 0.1); /* Add a shadow */
+  background-color:rgb(185, 255, 185);
+}
+
+/* .card h1 {
+  margin-bottom: 20px;
+}
+
+.card input,
+.card button {
+  margin-bottom: 10px;
+}
+
+.card button {
+  margin-left: 5px;
+} */
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
